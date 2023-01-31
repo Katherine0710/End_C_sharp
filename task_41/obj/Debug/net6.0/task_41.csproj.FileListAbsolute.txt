@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Семинар 6, 7, 8, 9\task_41\obj\Debug\net6.0\task_41.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Семинар 6, 7, 8, 9\task_41\obj\Debug\net6.0\task_41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Семинар 6, 7, 8, 9\task_41\obj\Debug\net6.0\task_41.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Семинар 6, 7, 8, 9\task_41\obj\Debug\net6.0\task_41.AssemblyInfo.cs
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Семинар 6, 7, 8, 9\task_41\obj\Debug\net6.0\task_41.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Семинар 6, 7, 8, 9\task_41\bin\Debug\net6.0\task_41.exe
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Семинар 6, 7, 8, 9\task_41\bin\Debug\net6.0\task_41.deps.json
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Семинар 6, 7, 8, 9\task_41\bin\Debug\net6.0\task_41.runtimeconfig.json
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Семинар 6, 7, 8, 9\task_41\bin\Debug\net6.0\task_41.dll
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Семинар 6, 7, 8, 9\task_41\bin\Debug\net6.0\task_41.pdb
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Семинар 6, 7, 8, 9\task_41\obj\Debug\net6.0\task_41.dll
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Семинар 6, 7, 8, 9\task_41\obj\Debug\net6.0\refint\task_41.dll
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Семинар 6, 7, 8, 9\task_41\obj\Debug\net6.0\task_41.pdb
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Семинар 6, 7, 8, 9\task_41\obj\Debug\net6.0\task_41.genruntimeconfig.cache
+C:\Users\User\Desktop\Обучение GeekBrains\#3 Введение в C#\Семинар 6, 7, 8, 9\task_41\obj\Debug\net6.0\ref\task_41.dll
