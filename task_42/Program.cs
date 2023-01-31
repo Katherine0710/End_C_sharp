@@ -6,7 +6,7 @@
 Console.Write("Введите число: ");
 int a = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine(Des(a));
+Console.WriteLine("Двоичное число: " + Des(a));
 
 string Des (int a)
 {
@@ -22,3 +22,14 @@ string Des (int a)
 
     return new String(arr);
 }
+
+// void GetBinaryView(int number)
+// {
+// if(number == 0) return;
+// GetBinaryView(number/2);
+// Console.Write(number%2);
+// }
+
+// Console.Write("Введите число: ");
+// int number = Convert.ToInt32(Console.ReadLine());
+// GetBinaryView(number);
